@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+
+a{
+    border-radius: 10%;
+    display: inline-flex;
+    border: solid;
+    margin: 200px 80px;
+    text-decoration: none;
+    color: white;
+    padding: 0 20px;
+}
